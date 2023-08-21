@@ -3,7 +3,9 @@
 GAN model trained to generate images of Aircrafts. The model is trained on https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
 
 ## Model
-More details about the model can be found at https://huggingface.co/PrakhAI/AIPlane2
+This repository only holds the colab used to train the model.
+
+More details about the model (including model weights) can be found at https://huggingface.co/PrakhAI/AIPlane2
 
 ## Demo
 A demo app for this model is hosted at https://huggingface.co/spaces/PrakhAI/AIPlane2 (please "Restart this Space" if prompted).
